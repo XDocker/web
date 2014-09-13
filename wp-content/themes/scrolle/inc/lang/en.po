@@ -1,0 +1,1041 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme2035 Framework 1.0\n"
+"POT-Creation-Date: 2014-02-03 01:28+0200\n"
+"PO-Revision-Date: 2014-02-03 01:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../cpt-portfolio.php:23 ../cpt-team.php:22
+msgid "Add New Items"
+msgstr ""
+
+#: ../cpt-portfolio.php:24 ../metabox.php:59
+msgid "Portfolio"
+msgstr ""
+
+#: ../cpt-portfolio.php:25
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../cpt-portfolio.php:26
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../cpt-portfolio.php:27
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../cpt-portfolio.php:28
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../cpt-portfolio.php:29
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../cpt-portfolio.php:30
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../cpt-portfolio.php:31
+msgid "No portfolio items have been added yet"
+msgstr ""
+
+#: ../cpt-portfolio.php:32 ../cpt-slider.php:30 ../cpt-team.php:31
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../cpt-slider.php:21
+msgid "Add New Slider"
+msgstr ""
+
+#: ../cpt-slider.php:22 ../meta-box/demo/demo.php:156
+#: ../meta-box/demo/slider.php:9
+msgid "Slider"
+msgstr ""
+
+#: ../cpt-slider.php:23
+msgid "Slider Item"
+msgstr ""
+
+#: ../cpt-slider.php:24
+msgid "Add New Slider Item"
+msgstr ""
+
+#: ../cpt-slider.php:25
+msgid "Edit Slider Item"
+msgstr ""
+
+#: ../cpt-slider.php:26
+msgid "New Slider Item"
+msgstr ""
+
+#: ../cpt-slider.php:27
+msgid "View Slider Item"
+msgstr ""
+
+#: ../cpt-slider.php:28
+msgid "Search Slider"
+msgstr ""
+
+#: ../cpt-slider.php:29
+msgid "No Slider items have been added yet"
+msgstr ""
+
+#: ../cpt-team.php:23 ../metabox.php:61 ../metabox.php:141
+msgid "Team"
+msgstr ""
+
+#: ../cpt-team.php:24
+msgid "Team Item"
+msgstr ""
+
+#: ../cpt-team.php:25
+msgid "Add New Team Item"
+msgstr ""
+
+#: ../cpt-team.php:26
+msgid "Edit Team Item"
+msgstr ""
+
+#: ../cpt-team.php:27
+msgid "New Team Item"
+msgstr ""
+
+#: ../cpt-team.php:28
+msgid "View Team Item"
+msgstr ""
+
+#: ../cpt-team.php:29
+msgid "Search Team"
+msgstr ""
+
+#: ../cpt-team.php:30
+msgid "No Team items have been added yet"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../menu-icon.php:101
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../menu-icon.php:105
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../menu-icon.php:146
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../menu-icon.php:155 ../meta-box/demo/demo.php:262
+msgid "URL"
+msgstr ""
+
+#: ../menu-icon.php:162
+msgid "Navigation Label"
+msgstr ""
+
+#: ../menu-icon.php:168
+msgid "Title Attribute"
+msgstr ""
+
+#: ../menu-icon.php:175
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../menu-icon.php:180
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../menu-icon.php:186
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../menu-icon.php:192
+msgid "Description"
+msgstr ""
+
+#: ../menu-icon.php:194
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../menu-icon.php:202
+msgid "Menu Icon"
+msgstr ""
+
+#: ../menu-icon.php:212
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../menu-icon.php:225 ../meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../menu-icon.php:226
+msgid "Cancel"
+msgstr ""
+
+#: ../metabox.php:42
+msgid "Post Options"
+msgstr ""
+
+#: ../metabox.php:51
+msgid "Page Type"
+msgstr ""
+
+#: ../metabox.php:54
+msgid "Please select Home type"
+msgstr ""
+
+#: ../metabox.php:57
+msgid "Home"
+msgstr ""
+
+#: ../metabox.php:58
+msgid "Parallax"
+msgstr ""
+
+#: ../metabox.php:60
+msgid "Blog"
+msgstr ""
+
+#: ../metabox.php:62
+msgid "Contact"
+msgstr ""
+
+#: ../metabox.php:66
+msgid "Select Page Type"
+msgstr ""
+
+#: ../metabox.php:69
+msgid "Section Name"
+msgstr ""
+
+#: ../metabox.php:71
+msgid ""
+"Section Name. Example : <b> about </b> And this box is alternative Nav class "
+"name."
+msgstr ""
+
+#: ../metabox.php:76
+msgid "Page Title"
+msgstr ""
+
+#: ../metabox.php:78
+msgid "Enter your page title"
+msgstr ""
+
+#: ../metabox.php:84
+msgid "Page description"
+msgstr ""
+
+#: ../metabox.php:86
+msgid "Enter your page description"
+msgstr ""
+
+#: ../metabox.php:92 ../metabox.php:94
+msgid "Full Screen"
+msgstr ""
+
+#: ../metabox.php:116
+msgid "Author Info"
+msgstr ""
+
+#: ../metabox.php:121
+msgid "Show"
+msgstr ""
+
+#: ../metabox.php:122
+msgid "Hide"
+msgstr ""
+
+#: ../metabox.php:151
+msgid "Member Team Position"
+msgstr ""
+
+#: ../metabox.php:153
+msgid "Enter member Team Position"
+msgstr ""
+
+#: ../metabox.php:160
+msgid "Social Media (We suggest use max 4 social links)"
+msgstr ""
+
+#: ../metabox.php:164
+msgid "Dribble"
+msgstr ""
+
+#: ../metabox.php:166
+msgid ""
+"Enter member just Dribbble username http://dribbble.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:172
+msgid "Facebook"
+msgstr ""
+
+#: ../metabox.php:174
+msgid ""
+"Enter member just Facebook username http://facebook.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:180
+msgid "Flickr"
+msgstr ""
+
+#: ../metabox.php:182
+msgid "Enter member just Flickr username http://flickr.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:188
+msgid "Github"
+msgstr ""
+
+#: ../metabox.php:190
+msgid "Enter member just Github username http://github.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:196
+msgid "Instagram"
+msgstr ""
+
+#: ../metabox.php:198
+msgid ""
+"Enter member just Instagram username http://instagram.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:204
+msgid "Linkedin"
+msgstr ""
+
+#: ../metabox.php:206
+msgid ""
+"Enter member just Linkedin username http://linkedin.com/in/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:213
+msgid "Pinterest"
+msgstr ""
+
+#: ../metabox.php:215
+msgid ""
+"Enter member just Pinterest username http://pinterest.com/in/<b>2035themes</"
+"b>"
+msgstr ""
+
+#: ../metabox.php:221
+msgid "Tumblr"
+msgstr ""
+
+#: ../metabox.php:223
+msgid "Enter your tumblr blog name http://<b>2035themes</b>.tumblr.com"
+msgstr ""
+
+#: ../metabox.php:229
+msgid "Twitter"
+msgstr ""
+
+#: ../metabox.php:231
+msgid ""
+"Enter member just Twitter username http://twitter.com/in/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:237
+msgid "Youtube"
+msgstr ""
+
+#: ../metabox.php:239
+msgid "Enter member just Youtube username http://youtube.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:246
+msgid "Add Custom Link - 1"
+msgstr ""
+
+#: ../metabox.php:250 ../metabox.php:269 ../metabox.php:289
+msgid "Custom Link Url"
+msgstr ""
+
+#: ../metabox.php:252 ../metabox.php:271 ../metabox.php:291
+msgid "Enter member custom Link Url <b>http://example.com/2035themes</b>"
+msgstr ""
+
+#: ../metabox.php:258 ../metabox.php:278 ../metabox.php:298
+msgid "Custom Link Icon"
+msgstr ""
+
+#: ../metabox.php:261 ../metabox.php:281 ../metabox.php:301
+msgid "Icon Must be 25x25px"
+msgstr ""
+
+#: ../metabox.php:265
+msgid "Add Custom Link - 2"
+msgstr ""
+
+#: ../metabox.php:285
+msgid "Add Custom Link - 3"
+msgstr ""
+
+#: ../metabox.php:315
+msgid "Images"
+msgstr ""
+
+#: ../metabox.php:325 ../metabox.php:375
+msgid "Clients Name"
+msgstr ""
+
+#: ../metabox.php:327 ../metabox.php:377
+msgid "Enter your clients name"
+msgstr ""
+
+#: ../metabox.php:333 ../metabox.php:383
+msgid "Project Web site"
+msgstr ""
+
+#: ../metabox.php:335 ../metabox.php:385
+msgid "Enter your project web site"
+msgstr ""
+
+#: ../metabox.php:341 ../metabox.php:391
+msgid "Portfolio Description"
+msgstr ""
+
+#: ../metabox.php:343 ../metabox.php:393
+msgid "Enter your URL here"
+msgstr ""
+
+#: ../metabox.php:349
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../metabox.php:350
+msgid "Max Photo Limit is <b>25</b>"
+msgstr ""
+
+#: ../metabox.php:365
+msgid "Video"
+msgstr ""
+
+#: ../metabox.php:399
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../metabox.php:401
+msgid "Enter your embed code"
+msgstr ""
+
+#: ../metabox.php:419
+msgid "Blog Post Image Slides"
+msgstr ""
+
+#: ../metabox.php:425
+msgid "Gallery Slider Featured Images"
+msgstr ""
+
+#: ../metabox.php:426
+msgid "Max Photo Limit is <b>20</b>"
+msgstr ""
+
+#: ../metabox.php:439
+msgid "Audio Settings"
+msgstr ""
+
+#: ../metabox.php:446
+msgid "Audio Code"
+msgstr ""
+
+#: ../metabox.php:448
+msgid "Enter your Audio URL(Oembed) or Embed Code."
+msgstr ""
+
+#: ../metabox.php:459
+msgid "Blog Video Settings"
+msgstr ""
+
+#: ../metabox.php:465
+msgid "Embed Code"
+msgstr ""
+
+#: ../metabox.php:467
+msgid "Insert paste embed code"
+msgstr ""
+
+#: ../meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../meta-box/demo/better-include.php:16
+#: ../meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../meta-box/demo/better-include.php:19
+#: ../meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:21 ../meta-box/demo/demo.php:188
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:24 ../meta-box/demo/demo.php:189
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:38
+msgid "Standard Fields"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:57
+msgid "Text"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:61
+msgid "Text description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:64
+msgid "Default text value"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:70
+msgid "Checkbox"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:78
+msgid "Radio"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:84 ../meta-box/demo/demo.php:95
+#: ../meta-box/demo/demo.php:237 ../meta-box/demo/demo.php:282
+msgid "Label1"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:85 ../meta-box/demo/demo.php:96
+#: ../meta-box/demo/demo.php:238 ../meta-box/demo/demo.php:283
+msgid "Label2"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:90 ../meta-box/demo/demo.php:277
+#: ../meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:101 ../meta-box/demo/demo.php:288
+msgid "Select an Item"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:108
+msgid "Hidden value"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:112
+msgid "Password"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:118
+msgid "Textarea"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:119
+msgid "Textarea description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:136
+msgid "Password is required"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:137
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:145
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:151
+msgid "Heading"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:161 ../meta-box/demo/slider.php:14
+msgid "$"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:162 ../meta-box/demo/slider.php:15
+msgid " USD"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:173
+msgid "Number"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:182
+msgid "Date picker"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:197
+msgid "Datetime picker"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:211
+msgid "Time picker"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:226
+msgid "Color picker"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:232
+msgid "Checkbox list"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:243
+msgid "Email"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:245
+msgid "Email description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:251
+msgid "Range"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:253
+msgid "Range description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:264
+msgid "URL description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:270
+msgid "oEmbed"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:272
+msgid "oEmbed description"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:292
+msgid "Taxonomy"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:306
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:322
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:327
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:343 ../meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:349
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:357 ../meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:363 ../meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:369 ../meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../meta-box/demo/demo.php:376
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: ../meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr ""
+
+#: ../meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr ""
+
+#: ../meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr ""
+
+#: ../meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: ../meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: ../meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ../meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ../meta-box/inc/fields/post.php:66 ../meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../post-types/content-audio.php:20 ../post-types/content-gallery.php:31
+#: ../post-types/content-image.php:20 ../post-types/content-quote.php:25
+#: ../post-types/content-video.php:22 ../post-types/content.php:25
+msgid "No comments yet"
+msgstr ""
+
+#: ../post-types/content-audio.php:20 ../post-types/content-gallery.php:31
+#: ../post-types/content-image.php:20 ../post-types/content-quote.php:25
+#: ../post-types/content-video.php:22 ../post-types/content.php:25
+msgid "1 Comment"
+msgstr ""
+
+#: ../post-types/content-audio.php:20 ../post-types/content-gallery.php:31
+#: ../post-types/content-image.php:20 ../post-types/content-quote.php:25
+#: ../post-types/content-video.php:22 ../post-types/content.php:25
+msgid "% Comments"
+msgstr ""
+
+#: ../post-types/content-audio.php:20 ../post-types/content-gallery.php:31
+#: ../post-types/content-image.php:20 ../post-types/content-quote.php:25
+#: ../post-types/content-video.php:22 ../post-types/content.php:25
+msgid "Comments are off for this post"
+msgstr ""
+
+#: ../post-types/content-audio.php:46 ../post-types/content-gallery.php:57
+#: ../post-types/content-image.php:46 ../post-types/content-quote.php:51
+#: ../post-types/content-video.php:48 ../post-types/content.php:52
+msgid "Read More"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:171
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:172
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../tgm_plugin_activation/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
